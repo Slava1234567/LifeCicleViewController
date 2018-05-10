@@ -49,14 +49,6 @@
 		F9F1106820A39C67001B392B = {
 			isa = PBXGroup;
 			children = (
-				F9F1108A20A39D65001B392B /* FirstViewController.h */,
-				F9F1108B20A39D65001B392B /* FirstViewController.m */,
-				F9F2030D20A43C290004548A /* FourViewController.h */,
-				F9F2030E20A43C290004548A /* FourViewController.m */,
-				F9F1108D20A39D73001B392B /* SecontViewController.h */,
-				F9F1108E20A39D73001B392B /* SecontViewController.m */,
-				F9F2030A20A425750004548A /* ThreeViewController.h */,
-				F9F2030B20A425750004548A /* ThreeViewController.m */,
 				F9F1107320A39C68001B392B /* TabBarController-C */,
 				F9F1107220A39C68001B392B /* Products */,
 			);
@@ -75,6 +67,14 @@
 			children = (
 				F9F1107420A39C68001B392B /* AppDelegate.h */,
 				F9F1107520A39C68001B392B /* AppDelegate.m */,
+				F9F1108A20A39D65001B392B /* FirstViewController.h */,
+				F9F1108B20A39D65001B392B /* FirstViewController.m */,
+				F9F2030D20A43C290004548A /* FourViewController.h */,
+				F9F2030E20A43C290004548A /* FourViewController.m */,
+				F9F1108D20A39D73001B392B /* SecontViewController.h */,
+				F9F1108E20A39D73001B392B /* SecontViewController.m */,
+				F9F2030A20A425750004548A /* ThreeViewController.h */,
+				F9F2030B20A425750004548A /* ThreeViewController.m */,
 				F9F1107D20A39C68001B392B /* Assets.xcassets */,
 				F9F1107F20A39C68001B392B /* LaunchScreen.storyboard */,
 				F9F1108220A39C68001B392B /* Info.plist */,
